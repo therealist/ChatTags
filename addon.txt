@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+        "name"              "Chat Tags"
+        "version"           "1.0"
+        "up_date"           "1/31/13"
+        "author_name"       "Tyguy, The Realist"
+        "author_email"      "tyguy550 @ steam"
+        "info"              "Chat Tags"
+        "override"          "0"
+}
